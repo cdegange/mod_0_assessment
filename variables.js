@@ -7,7 +7,7 @@ var num6 = 6;
 
 var product = num4 * num6;
 
-var favoriteFoods = ['Pizza', 'Enchiladas', "Fish Taco"];
+var favoriteFoods = ['Pizza', 'Enchiladas', 'Fish Taco'];
 
 favoriteFoods.shift();
-console.log(movie.length -1);
+console.log(movie.length);

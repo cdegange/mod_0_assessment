@@ -7,6 +7,6 @@ var famousDinosaur = {
   ageInYrs: 122,
   famous: true,
   lovesChildren: true,
-  friends: ['Big Bird', "Chewbaca"],
+  friends: ['Big Bird', 'Chewbaca'],
   guestAppearances: ['Show 1', 'Show 2']
 };
